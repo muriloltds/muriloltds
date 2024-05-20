@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Meu nome é Murilo, seja bem vindo ao meu perfil
+
+email: murilo9705@gmail.com
 <!--
 **muriloltds/muriloltds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
